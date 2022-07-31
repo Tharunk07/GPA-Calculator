@@ -35,4 +35,4 @@ def calculate(grade_list: list, credit_list: list):
 if __name__ == "__main__":
     print(calculate([10,9,10],[4,3,0]))
     
-    #tharunthegreat
+
