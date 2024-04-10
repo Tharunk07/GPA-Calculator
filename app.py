@@ -29,7 +29,7 @@ def submit():
 
     else:
         return redirect(url_for("home"))
-
+#python
 
 @app.errorhandler(404)
 def error(e):
